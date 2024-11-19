@@ -1,7 +1,7 @@
 # actividad2_1
 ## -Ejercicio 1 (link a resolución del Ejercicio 1: content/ejercicio1.md)
 
-- [Ejercicio 1](Markdown/Actividad1.md)
+- [Ejercicio 1](Markdown/Ejercicio1.md)
 
 ## -Ejercicio 2 (link al sitio del tema Lagrange en GITHUB PAGES:
 
