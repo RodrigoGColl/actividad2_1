@@ -5,7 +5,7 @@ https://github.com/RodrigoGColl/actividad2_1/blob/gh-pages/actividad1.md
 
 ## -Ejercicio 2 (link al sitio del tema Lagrange en GITHUB PAGES:
 
-https://RodrigoGColl.github.io/lagrange/
+https://RodrigoGColl.github.io/lagrange
 
 ## -Ejercicio 3 (link al sitio del tema Jekyll Klisé en NETLIFY:
 
