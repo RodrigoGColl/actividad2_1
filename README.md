@@ -1,7 +1,7 @@
 # actividad2_1
 ## -Ejercicio 1 (link a resolución del Ejercicio 1: content/ejercicio1.md)
 
-- [Ejercicio 1](https://github.com/RodrigoGColl/actividad2_1/blob/gh-pages/actividad1.md)
+- [Ejercicio 1](/actividad1.md)
 
 ## -Ejercicio 2 (link al sitio del tema Lagrange en GITHUB PAGES:
 
